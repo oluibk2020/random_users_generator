@@ -1,0 +1,7 @@
+@media (max-width: 500px) {
+  .space-y-3 #email {
+    word-break: break-all;
+
+  }
+ 
+}
